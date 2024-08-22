@@ -1,6 +1,6 @@
 {
-    "name": "my_website",
-    "short_name": "my_website",
+    "name": "teleporting_button",
+    "short_name": "teleporting_button",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
