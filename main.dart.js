@@ -67163,7 +67163,7 @@ return A.adD(A.a([B.df,B.G5,B.df,B.EE,B.df,B.Iz,B.df,p,o,n,m,A.aaj(B.Ay,B.N7,new
 $S:393}
 A.a5j.prototype={
 $0(){var s=document.createElement("a")
-s.href="assets/assets/resume/andrew_amidei_resume.pdf"
+s.href="assets/assets/assets/resume/andrew_amidei_resume.pdf"
 s.download="Andrew Amidei's Resume"
 s.click()
 return null},
