@@ -101,7 +101,7 @@ class _HomePageState extends State<HomePage> {
                     ],
                   ),
                   SizedBox(
-                    height: 800,
+                    height: 920,
                     child: Padding(
                       padding: const EdgeInsets.fromLTRB(30, 0, 30, 0),
                       child: Column(
@@ -131,14 +131,14 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
                   const Padding(
-                    padding: EdgeInsets.fromLTRB(60, 10, 60, 10),
+                    padding: EdgeInsets.fromLTRB(100, 10, 100, 10),
                     child: Text(
                       "What I'm Working on",
                       style: TextStyle(fontSize: 45, fontWeight: FontWeight.bold)
                     ),
                   ),
                   const Padding(
-                    padding: EdgeInsets.fromLTRB(60, 10, 60, 10),
+                    padding: EdgeInsets.fromLTRB(100, 10, 100, 10),
                     child: Text(
                       whatImWorkingOnMessage,
                       style: TextStyle(fontSize: 24, fontWeight: FontWeight.w300)
